@@ -1,17 +1,17 @@
 // write your code below!
-function(happyHolidays){
+happyHolidays= function(happyHolidays){
   console.log('Happy Holidays!')
 }
 happyHolidays()
 
-function(happyHolidaysTo){
+happyHolidaysTo= function(happyHolidaysTo){
   console.log('Happy Holidays, ${cat}')
 }
 happyHolidaysTo()
-function(happyHolidayTo){
+happyHolidayTo= function(happyHolidayTo){
   console.log('Happy ${Easter}, ${bunny}!')
 }
 happyHolidayTo()
-function(holidayCountdown){
+holidayCountdow= function(holidayCountdown){
   console.log("it's ${30} days until ${Valendtines Day}!)")
 }
